@@ -20,6 +20,17 @@ header .container {
     padding: 0 20px;
 }
 
+.logo-title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo {
+    height: 40px;   /* Logo verkleinern */
+    width: auto;    /* Seitenverhältnis bleibt erhalten */
+}
+
 header h1 {
     margin: 0;
 }
