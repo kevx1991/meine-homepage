@@ -27,7 +27,7 @@ header .container {
 }
 
 .logo {
-    height: 60px;   /* Logo verkleinern */
+    height: 100px;   /* Logo verkleinern */
     width: auto;    /* Seitenverhältnis bleibt erhalten */
 }
 
